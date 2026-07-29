@@ -23,7 +23,7 @@ Developed an interactive **Power BI dashboard** to analyze sales performance usi
 
 ## Dashboard Preview
 
-(Images/Dashboard.png)
+![Dashboard Preview](Dashboard.png)
 
 ## Project Files
 Task_04_Dashboard_Design
